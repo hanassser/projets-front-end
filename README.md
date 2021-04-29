@@ -9,15 +9,16 @@ voici deux sites web et une petite application que j'ai faite.
 <br><br>
 <br><br>
 ### website_restaurant
-<br>
+<br><br>
 ![image](https://github.com/hanassser/Web_Front_End/blob/master/project1.gif)
 <br><br>
 ### website_travel_agency
-<br>
+<br><br>
 ![image](https://github.com/hanassser/Web_Front_End/blob/master/project2.gif)
 <br><br>
 ### application_js_beatmix
-<br>
+<br><br>
+
 ![image](https://github.com/hanassser/Web_Front_End/blob/master/project3.gif)
 <br><br>
 <br><br>
