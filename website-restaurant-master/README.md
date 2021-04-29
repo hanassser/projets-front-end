@@ -2,5 +2,7 @@
 
 Salut! C'est un site réactif utilisant uniquement html, css et javascript.
 
-
-![image](https://user-images.githubusercontent.com/60017084/116560356-954f5d80-a901-11eb-818c-fe24445befee.png)
+<br>
+<br>
+<br>
+![image](http://jade.blog.s3-website.eu-west-3.amazonaws.com/assets/project/project1.gif)
