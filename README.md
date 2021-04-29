@@ -8,11 +8,14 @@ voici deux sites web et une petite application que j'ai faite.
 
 <br><br>
 <br><br>
-+ website_restaurant
+### website_restaurant
+<br><br>
 ![image](https://github.com/hanassser/Web_Front_End/blob/master/project1.gif)
-+ website_travel_agency
+### website_travel_agency
+<br><br>
 ![image](https://github.com/hanassser/Web_Front_End/blob/master/project2.gif)
-+ application_js_beatmix
+### application_js_beatmix
+<br><br>
 ![image](https://github.com/hanassser/Web_Front_End/blob/master/project3.gif)
 <br><br>
 <br><br>
